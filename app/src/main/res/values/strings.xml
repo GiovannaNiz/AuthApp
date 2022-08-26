@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="edtRegistar">Usuario</string>
+    <string name="btnRegister">REGISTRAR</string>
+</resources>
